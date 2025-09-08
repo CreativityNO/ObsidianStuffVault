@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Writing/Prac/PlotEvents/Whisper's Masters Death.md",
+                    "file": "Writing/Prac/Characters/Whispers Master.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Whisper's Masters Death"
+                  "title": "Whispers Master"
                 }
               }
             ]
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writing/Prac/PlotEvents/Whisper's Masters Death.md",
+                "file": "Writing/Prac/Characters/Whispers Master.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Whisper's Masters Death"
+              "title": "Backlinks for Whispers Master"
             }
           },
           {
@@ -222,12 +222,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writing/Prac/PlotEvents/Whisper's Masters Death.md",
+                "file": "Writing/Prac/Characters/Whispers Master.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Whisper's Masters Death"
+              "title": "Outgoing links from Whispers Master"
             }
           },
           {
@@ -251,13 +251,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Prac/PlotEvents/Whisper's Masters Death.md",
+                "file": "Writing/Prac/Characters/Whispers Master.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Whisper's Masters Death"
+              "title": "Outline of Whispers Master"
             }
           },
           {
@@ -291,8 +291,8 @@
   },
   "active": "ad6d686087eb955f",
   "lastOpenFiles": [
-    "Writing/Prac/Magic System/Tiers.md",
     "Writing/Prac/PlotEvents/Whisper's Masters Death.md",
+    "Writing/Prac/Magic System/Tiers.md",
     "Writing/Prac/Characters/Whisper.md",
     "Writing/Prac/Templates/Event Template.md",
     "Writing/Prac/Templates/Character Template.md",
