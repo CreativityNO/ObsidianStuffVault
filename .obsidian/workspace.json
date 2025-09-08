@@ -1,0 +1,321 @@
+{
+  "main": {
+    "id": "da59cfcd7d7dd28e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4a57cfaa1978747",
+        "type": "split",
+        "children": [
+          {
+            "id": "5de87a8af93e7e2e",
+            "type": "tabs",
+            "dimension": 50.1937984496124,
+            "children": [
+              {
+                "id": "ad6d686087eb955f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Writing/Prac/PlotEvents/Whisper's Masters Death.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Whisper's Masters Death"
+                }
+              }
+            ]
+          },
+          {
+            "id": "8f5169bf633da9d9",
+            "type": "split",
+            "dimension": 49.8062015503876,
+            "children": [
+              {
+                "id": "2a0693eb6304eae3",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "7aaefc0a1bbd3a1a",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Writing/Prac/Templates/Setting Template.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Setting Template"
+                    }
+                  },
+                  {
+                    "id": "a538ce6901a5e508",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Writing/Prac/Templates/Event Template.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Event Template"
+                    }
+                  },
+                  {
+                    "id": "d49d98d07a3806e7",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Writing/Prac/Templates/Character Template.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Character Template"
+                    }
+                  },
+                  {
+                    "id": "3f4c74b4021a57c1",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Writing/Prac/Templates/Item Template.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Item Template"
+                    }
+                  }
+                ],
+                "currentTab": 3
+              },
+              {
+                "id": "81ce82893030e464",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "f393d927a63a7d4a",
+                    "type": "leaf",
+                    "state": {
+                      "type": "graph",
+                      "state": {},
+                      "icon": "lucide-git-fork",
+                      "title": "Graph view"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa62392e0fee2ef5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ccb0221c1e6af69",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37d1bd77cdb160cc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "aa052db100b2dfd7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "90c11cca0cf09e46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writing/Prac/Characters/Whisper.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Whisper"
+            }
+          },
+          {
+            "id": "d551385df0ce3b1a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 405.5
+  },
+  "right": {
+    "id": "3dc73ef2599b5eaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b24f99c332b2e1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f28c1f22596bfbee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Writing/Prac/PlotEvents/Whisper's Masters Death.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Whisper's Masters Death"
+            }
+          },
+          {
+            "id": "c8f81cad5a5717df",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Writing/Prac/PlotEvents/Whisper's Masters Death.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Whisper's Masters Death"
+            }
+          },
+          {
+            "id": "cee9bdde7a545e3f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "354c1e8ddc118e61",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Writing/Prac/PlotEvents/Whisper's Masters Death.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Whisper's Masters Death"
+            }
+          },
+          {
+            "id": "e86223d8502af892",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ad6d686087eb955f",
+  "lastOpenFiles": [
+    "Writing/Prac/Magic System/Tiers.md",
+    "Writing/Prac/PlotEvents/Whisper's Masters Death.md",
+    "Writing/Prac/Characters/Whisper.md",
+    "Writing/Prac/Templates/Event Template.md",
+    "Writing/Prac/Templates/Character Template.md",
+    "Writing/Prac/Settings/Small Town.md",
+    "Writing/Prac/Items/Whispers Staff.md",
+    "Writing/Prac/Items/Old book.md",
+    "Writing/Prac/Characters/Whispers Master.md",
+    "Writing/Prac/Templates/Item Template.md",
+    "Writing/Prac/Templates/Setting Template.md",
+    "Why green.md",
+    "Book Think",
+    "Tier.md",
+    "Writing/Prac/Templates",
+    "Writing/Prac/PlotEvents",
+    "Writing/Prac/Items",
+    "Writing/Prac/Magic System",
+    "Writing/Prac/Untitled.md",
+    "Writing/Prac/Settings",
+    "Writing/Prac/Characters",
+    "Writing/Relevant Info/Rotten Flesh.md",
+    "Writing/Relevant Info",
+    "Writing/Prac",
+    "Writing",
+    "Welcome.md"
+  ]
+}
