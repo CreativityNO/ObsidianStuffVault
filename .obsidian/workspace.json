@@ -29,7 +29,7 @@
             ]
           },
           {
-            "id": "8f5169bf633da9d9",
+            "id": "fb785a140b211fd6",
             "type": "split",
             "dimension": 49.8062015503876,
             "children": [
@@ -96,11 +96,11 @@
                 ]
               },
               {
-                "id": "81ce82893030e464",
+                "id": "c68ff0194ec37b2d",
                 "type": "tabs",
                 "children": [
                   {
-                    "id": "f393d927a63a7d4a",
+                    "id": "f75fea5148f5e791",
                     "type": "leaf",
                     "state": {
                       "type": "graph",
@@ -271,7 +271,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 477.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -285,12 +285,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f393d927a63a7d4a",
+  "active": "f75fea5148f5e791",
   "lastOpenFiles": [
     "Random Info/Thinking/Laws and Freedom.md",
+    "Random Info/Thinking/Honor.md",
+    "Random Info/Thinking/Gods and Mortals.md",
+    "Writing/Prac/Templates/Setting Template.md",
+    "conflict-files-obsidian-git.md",
     "Untitled.base",
     "Writing/Prac/Settings/City1.md",
-    "Writing/Prac/Templates/Setting Template.md",
     "Writing/Prac/Templates/Event Template.md",
     "Writing/Prac/Templates/Character Template.md",
     "Writing/Prac/Magic System/Tiers.md",
@@ -303,8 +306,6 @@
     "Writing/Prac/Templates/Item Template.md",
     "Writing/Prac/PlotEvents/Whisper's Masters Death.md",
     "Random Info/Thinking/Morality.md",
-    "Random Info/Thinking/Gods and Mortals.md",
-    "Random Info/Thinking/Honor.md",
     "Writing/Relevant Info/Rotten Flesh.md",
     "Random Info/Thinking",
     "Why green.md",
