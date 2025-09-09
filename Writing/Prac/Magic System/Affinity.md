@@ -1,1 +1,1 @@
-A being's affinity is what type of magic they can do. It is a very confusing study and no two people have the exact same affinity. 
+A being's affinity is what type of magic they can do. It is a very confusing study as no two people have the exact same affinity. There will always be small differences.
