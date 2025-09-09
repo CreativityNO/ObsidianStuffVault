@@ -2,10 +2,10 @@
 tags:
   - Character
 ---
-### Start/Beginnings/Before/
+### Base
 - Age:
 - Race:
-- Affinity:
+- [[Affinity]]:
 - [[Tiers|Tier]]:
 - Small or Large Description:
 ### Event 1

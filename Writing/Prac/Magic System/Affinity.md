@@ -1,0 +1,1 @@
+A being's affinity is what type of magic they can do. It is a very confusing study and no two people have the exact same affinity. 
