@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "1b1b160157a1ee11",
+    "type": "split",
+    "children": [
+      {
+        "id": "d01fa6834d459dce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8626e2912564b7e7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "de97d562ccb16dad",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fd2e256432f156b6",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "0aebc5c2689aee6f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "a2cf97881c336f27",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "98f1c00ec10a1f83",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "796a6c316d7d5544",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1e74ebe674e0b79f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "68e459e654d72f3a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "1bd66ca7ee04890d",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8626e2912564b7e7",
+  "lastOpenFiles": [
+    "Writing/Prac/Characters/Whispers Master.md",
+    "Writing/Prac/Characters/Whisper.md",
+    "Writing/Prac/PlotEvents/Whisper's Masters Death.md",
+    "Writing/Prac/Items/Whispers Staff.md",
+    "Writing/Prac/Items/Old book.md",
+    "Writing/Prac/Settings/Small Town.md",
+    "Writing/Prac/Templates/Setting Template.md",
+    "Writing/Prac/Templates/Event Template.md",
+    "Writing/Prac/Templates/Item Template.md",
+    "Writing/Prac/Templates/Character Template.md",
+    "Writing/Prac/Magic System/Tiers.md",
+    "Writing/Prac/Characters",
+    "Writing/Prac/PlotEvents",
+    "Writing/Prac/Items",
+    "Writing/Prac/Settings",
+    "Writing/Prac/Templates",
+    "Writing/Prac/Magic System",
+    "Writing/Relevant Info/Rotten Flesh.md",
+    "Writing/Prac",
+    "Writing/Relevant Info",
+    "Writing"
+  ]
+}
