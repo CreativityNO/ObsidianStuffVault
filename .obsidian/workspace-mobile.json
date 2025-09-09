@@ -11,10 +11,10 @@
             "id": "8626e2912564b7e7",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -149,6 +149,9 @@
   },
   "active": "8626e2912564b7e7",
   "lastOpenFiles": [
+    "Random Info/Thinking/Honor.md",
+    "Random Info/Thinking",
+    "Random Info",
     "Writing/Prac/Characters/Whispers Master.md",
     "Writing/Prac/Characters/Whisper.md",
     "Writing/Prac/PlotEvents/Whisper's Masters Death.md",
@@ -168,7 +171,6 @@
     "Writing/Prac/Magic System",
     "Writing/Relevant Info/Rotten Flesh.md",
     "Writing/Prac",
-    "Writing/Relevant Info",
-    "Writing"
+    "Writing/Relevant Info"
   ]
 }
