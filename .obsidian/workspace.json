@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Writing/Prac/Magic System/Affinity.md",
+                    "file": "Writing/Prac/Settings/City1.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Affinity"
+                  "title": "City1"
                 }
               }
             ]
@@ -93,7 +93,8 @@
                       "title": "Item Template"
                     }
                   }
-                ]
+                ],
+                "currentTab": 2
               },
               {
                 "id": "c68ff0194ec37b2d",
@@ -271,7 +272,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 477.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -285,26 +287,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f75fea5148f5e791",
+  "active": "ad6d686087eb955f",
   "lastOpenFiles": [
-    "Writing/Prac/Templates/Setting Template.md",
+    "Writing/Prac/Settings/Small Town.md",
+    "Writing/Prac/Settings/City1.md",
+    "Writing/Prac/Characters/Whisper.md",
+    "Writing/Prac/Characters/Whisper's Master.md",
+    "Writing/Prac/Templates/Character Template.md",
+    "Writing/Prac/PlotEvents/Whisper's Masters Death.md",
+    "Writing/Prac/Items/Whisper's Staff.md",
     "Writing/Prac/Magic System/Affinity.md",
+    "Writing/Prac/Items/Old book.md",
+    "Writing/Prac/Templates/Setting Template.md",
     "Random Info/Thinking/Laws and Freedom.md",
     "Random Info/Thinking/Honor.md",
     "Random Info/Thinking/Gods and Mortals.md",
     "conflict-files-obsidian-git.md",
     "Untitled.base",
-    "Writing/Prac/Settings/City1.md",
     "Writing/Prac/Templates/Event Template.md",
-    "Writing/Prac/Templates/Character Template.md",
     "Writing/Prac/Magic System/Tiers.md",
-    "Writing/Prac/Items/Whisper's Staff.md",
-    "Writing/Prac/Items/Old book.md",
-    "Writing/Prac/Characters/Whisper.md",
-    "Writing/Prac/Characters/Whisper's Master.md",
-    "Writing/Prac/Settings/Small Town.md",
     "Writing/Prac/Templates/Item Template.md",
-    "Writing/Prac/PlotEvents/Whisper's Masters Death.md",
     "Random Info/Thinking/Morality.md",
     "Writing/Relevant Info/Rotten Flesh.md",
     "Random Info/Thinking",
