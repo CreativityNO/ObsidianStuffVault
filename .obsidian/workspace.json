@@ -4,133 +4,90 @@
     "type": "split",
     "children": [
       {
-        "id": "f4a57cfaa1978747",
+        "id": "fb785a140b211fd6",
         "type": "split",
         "children": [
           {
-            "id": "5de87a8af93e7e2e",
+            "id": "2a0693eb6304eae3",
             "type": "tabs",
-            "dimension": 50.1937984496124,
             "children": [
               {
-                "id": "ad6d686087eb955f",
+                "id": "7aaefc0a1bbd3a1a",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Writing/Prac/Settings/City1.md",
+                    "file": "Writing/Prac/Templates/Setting Template.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "City1"
+                  "title": "Setting Template"
                 }
               },
               {
-                "id": "6e7e6014a33631f2",
+                "id": "a538ce6901a5e508",
                 "type": "leaf",
                 "state": {
-                  "type": "split-diff-view",
+                  "type": "markdown",
                   "state": {
-                    "aFile": "Writing/Prac/Settings/City1.md",
-                    "bFile": "Writing/Prac/Settings/City1.md",
-                    "aRef": ""
+                    "file": "Writing/Prac/Templates/Event Template.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "diff",
-                  "title": "Diff: City1"
+                  "icon": "lucide-file",
+                  "title": "Event Template"
+                }
+              },
+              {
+                "id": "d49d98d07a3806e7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Writing/Prac/Templates/Character Template.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Character Template"
+                }
+              },
+              {
+                "id": "3f4c74b4021a57c1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Writing/Prac/Templates/Item Template.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Item Template"
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "c68ff0194ec37b2d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f75fea5148f5e791",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
                 }
               }
             ]
-          },
-          {
-            "id": "fb785a140b211fd6",
-            "type": "split",
-            "dimension": 49.8062015503876,
-            "children": [
-              {
-                "id": "2a0693eb6304eae3",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "7aaefc0a1bbd3a1a",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Writing/Prac/Templates/Setting Template.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Setting Template"
-                    }
-                  },
-                  {
-                    "id": "a538ce6901a5e508",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Writing/Prac/Templates/Event Template.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Event Template"
-                    }
-                  },
-                  {
-                    "id": "d49d98d07a3806e7",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Writing/Prac/Templates/Character Template.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Character Template"
-                    }
-                  },
-                  {
-                    "id": "3f4c74b4021a57c1",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Writing/Prac/Templates/Item Template.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "Item Template"
-                    }
-                  }
-                ],
-                "currentTab": 2
-              },
-              {
-                "id": "c68ff0194ec37b2d",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "f75fea5148f5e791",
-                    "type": "leaf",
-                    "state": {
-                      "type": "graph",
-                      "state": {},
-                      "icon": "lucide-git-fork",
-                      "title": "Graph view"
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "vertical"
           }
         ],
-        "direction": "horizontal"
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -300,11 +257,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ad6d686087eb955f",
+  "active": "e86223d8502af892",
   "lastOpenFiles": [
-    "Writing/Prac/Characters/Mage Guild Examiner.md",
-    "Writing/Prac/Settings/City1.md",
     "conflict-files-obsidian-git.md",
+    "Writing/Prac/Settings/City1.md",
+    "Writing/Prac/Characters/Mage Guild Examiner.md",
     "Writing/Prac/Settings/Small Town.md",
     "Writing/Prac/Characters/Whisper.md",
     "Writing/Prac/Characters/Whisper's Master.md",
