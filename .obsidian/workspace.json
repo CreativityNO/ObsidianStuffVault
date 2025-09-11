@@ -15,10 +15,14 @@
                 "id": "a50c9e9923d57259",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {},
+                  "type": "markdown",
+                  "state": {
+                    "file": "Random Info/Thinking/Time.md",
+                    "mode": "source",
+                    "source": false
+                  },
                   "icon": "lucide-file",
-                  "title": "New tab"
+                  "title": "Time"
                 }
               },
               {
@@ -35,8 +39,7 @@
                   "title": "Organization Template"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "25842fcb5494c402",
@@ -89,21 +92,35 @@
                     }
                   },
                   {
-                    "id": "30cd68f6449f14f7",
+                    "id": "a04da8081f50d357",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Writing/Prac/Templates/Setting Template.md",
+                        "file": "Writing/Prac/Templates/Organization Template.md",
                         "mode": "source",
                         "source": false
                       },
                       "icon": "lucide-file",
-                      "title": "Setting Template"
+                      "title": "Organization Template"
+                    }
+                  },
+                  {
+                    "id": "a0800dabdfc7032a",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Writing/Prac/Templates/Organization Template.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Organization Template"
                     }
                   }
                 ],
-                "currentTab": 3
+                "currentTab": 4
               },
               {
                 "id": "ad178a7ff3a35ef9",
@@ -295,11 +312,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c828eb87e5c87d1",
+  "active": "a50c9e9923d57259",
   "lastOpenFiles": [
-    "Writing/Prac/Templates/Setting Template.md",
+    "Random Info/Thinking/Time.md",
     "Writing/Prac/Templates/Organization Template.md",
     "Writing/Prac/Templates/Item Template.md",
+    "Writing/Prac/Templates/Setting Template.md",
     "Writing/Prac/Templates/Event Template.md",
     "conflict-files-obsidian-git.md",
     "Writing/Prac/Settings/City1.md",
