@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "fb785a140b211fd6",
+        "id": "fedacc8d36b38f98",
         "type": "split",
         "children": [
           {
@@ -12,82 +12,120 @@
             "type": "tabs",
             "children": [
               {
-                "id": "7aaefc0a1bbd3a1a",
+                "id": "a50c9e9923d57259",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Writing/Prac/Templates/Setting Template.md",
-                    "mode": "source",
-                    "source": false
-                  },
+                  "type": "empty",
+                  "state": {},
                   "icon": "lucide-file",
-                  "title": "Setting Template"
+                  "title": "New tab"
                 }
               },
               {
-                "id": "a538ce6901a5e508",
+                "id": "b286484cba5e1f1e",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Writing/Prac/Templates/Event Template.md",
+                    "file": "Writing/Prac/Templates/Organization Template.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Event Template"
-                }
-              },
-              {
-                "id": "d49d98d07a3806e7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Writing/Prac/Templates/Character Template.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Character Template"
-                }
-              },
-              {
-                "id": "3f4c74b4021a57c1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Writing/Prac/Templates/Item Template.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Item Template"
+                  "title": "Organization Template"
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           },
           {
-            "id": "c68ff0194ec37b2d",
-            "type": "tabs",
+            "id": "25842fcb5494c402",
+            "type": "split",
             "children": [
               {
-                "id": "f75fea5148f5e791",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
+                "id": "b1186d548e2999cb",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "0a84f8b9775bbf3e",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Writing/Prac/Templates/Setting Template.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Setting Template"
+                    }
+                  },
+                  {
+                    "id": "cb0a8e9da9bfdd7d",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Writing/Prac/Templates/Event Template.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Event Template"
+                    }
+                  },
+                  {
+                    "id": "e0bd64e17f0afcd1",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Writing/Prac/Templates/Item Template.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Item Template"
+                    }
+                  },
+                  {
+                    "id": "30cd68f6449f14f7",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Writing/Prac/Templates/Setting Template.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Setting Template"
+                    }
+                  }
+                ],
+                "currentTab": 3
+              },
+              {
+                "id": "ad178a7ff3a35ef9",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "0c828eb87e5c87d1",
+                    "type": "leaf",
+                    "state": {
+                      "type": "graph",
+                      "state": {},
+                      "icon": "lucide-git-fork",
+                      "title": "Graph view"
+                    }
+                  }
+                ]
               }
-            ]
+            ],
+            "direction": "vertical"
           }
         ],
-        "direction": "vertical"
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -257,8 +295,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e86223d8502af892",
+  "active": "b286484cba5e1f1e",
   "lastOpenFiles": [
+    "Writing/Prac/Templates/Setting Template.md",
+    "Writing/Prac/Templates/Organization Template.md",
+    "Writing/Prac/Templates/Item Template.md",
+    "Writing/Prac/Templates/Event Template.md",
     "conflict-files-obsidian-git.md",
     "Writing/Prac/Settings/City1.md",
     "Writing/Prac/Characters/Mage Guild Examiner.md",
@@ -270,14 +312,11 @@
     "Writing/Prac/Items/Whisper's Staff.md",
     "Writing/Prac/Magic System/Affinity.md",
     "Writing/Prac/Items/Old book.md",
-    "Writing/Prac/Templates/Setting Template.md",
     "Random Info/Thinking/Laws and Freedom.md",
     "Random Info/Thinking/Honor.md",
     "Random Info/Thinking/Gods and Mortals.md",
     "Untitled.base",
-    "Writing/Prac/Templates/Event Template.md",
     "Writing/Prac/Magic System/Tiers.md",
-    "Writing/Prac/Templates/Item Template.md",
     "Random Info/Thinking/Morality.md",
     "Writing/Relevant Info/Rotten Flesh.md",
     "Random Info/Thinking",
