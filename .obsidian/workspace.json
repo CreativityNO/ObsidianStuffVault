@@ -25,6 +25,20 @@
                   "icon": "lucide-file",
                   "title": "City1"
                 }
+              },
+              {
+                "id": "6e7e6014a33631f2",
+                "type": "leaf",
+                "state": {
+                  "type": "split-diff-view",
+                  "state": {
+                    "aFile": "Writing/Prac/Settings/City1.md",
+                    "bFile": "Writing/Prac/Settings/City1.md",
+                    "aRef": ""
+                  },
+                  "icon": "diff",
+                  "title": "Diff: City1"
+                }
               }
             ]
           },
@@ -272,8 +286,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -289,8 +302,10 @@
   },
   "active": "ad6d686087eb955f",
   "lastOpenFiles": [
-    "Writing/Prac/Settings/Small Town.md",
+    "Writing/Prac/Characters/Mage Guild Examiner.md",
     "Writing/Prac/Settings/City1.md",
+    "conflict-files-obsidian-git.md",
+    "Writing/Prac/Settings/Small Town.md",
     "Writing/Prac/Characters/Whisper.md",
     "Writing/Prac/Characters/Whisper's Master.md",
     "Writing/Prac/Templates/Character Template.md",
@@ -302,7 +317,6 @@
     "Random Info/Thinking/Laws and Freedom.md",
     "Random Info/Thinking/Honor.md",
     "Random Info/Thinking/Gods and Mortals.md",
-    "conflict-files-obsidian-git.md",
     "Untitled.base",
     "Writing/Prac/Templates/Event Template.md",
     "Writing/Prac/Magic System/Tiers.md",
