@@ -17,12 +17,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Writing/Prac/Settings/City1.md",
+                    "file": "Writing/Prac/PlotEvents/Whisper's Masters Death.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "City1"
+                  "title": "Whisper's Masters Death"
                 }
               },
               {
@@ -275,13 +275,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writing/Prac/Settings/City1.md",
+                "file": "Writing/Prac/PlotEvents/Whisper's Masters Death.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of City1"
+              "title": "Outline of Whisper's Masters Death"
             }
           },
           {
@@ -315,8 +315,10 @@
   },
   "active": "a50c9e9923d57259",
   "lastOpenFiles": [
-    "Writing/Prac/PlotEvents/Whisper's Masters Death.md",
     "Writing/Prac/Organizations/Mage Guild1.md",
+    "Writing/Prac/PlotEvents/Whisper's Masters Death.md",
+    "Writing/Prac/Settings/City1.md",
+    "Writing/Prac/Settings/Small Town.md",
     "Writing/Prac/Magic System/Tiers.md",
     "Writing/Prac/Magic System/Affinity.md",
     "Writing/Prac/Items/Whisper's Staff.md",
@@ -336,8 +338,6 @@
     "Writing/Prac/Templates/Setting Template.md",
     "Writing/Prac/Templates/Event Template.md",
     "conflict-files-obsidian-git.md",
-    "Writing/Prac/Settings/City1.md",
-    "Writing/Prac/Settings/Small Town.md",
     "Untitled.base",
     "Writing/Relevant Info/Rotten Flesh.md",
     "Random Info/Thinking",
