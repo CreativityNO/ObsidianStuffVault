@@ -17,12 +17,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Writing/Prac/Characters/Mage Guild Examiner.md",
+                    "file": "Writing/Prac/Settings/City1.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Mage Guild Examiner"
+                  "title": "City1"
                 }
               },
               {
@@ -275,12 +275,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Writing/Prac/Settings/City1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of City1"
             }
           },
           {
@@ -294,7 +295,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -312,13 +313,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c828eb87e5c87d1",
+  "active": "a50c9e9923d57259",
   "lastOpenFiles": [
-    "Writing/Prac/Characters/Mage Guild Examiner.md",
+    "Writing/Prac/PlotEvents/Whisper's Masters Death.md",
     "Writing/Prac/Organizations/Mage Guild1.md",
+    "Writing/Prac/Magic System/Tiers.md",
+    "Writing/Prac/Magic System/Affinity.md",
+    "Writing/Prac/Items/Whisper's Staff.md",
+    "Writing/Prac/Items/Old book.md",
+    "Writing/Prac/Characters/Whisper.md",
+    "Writing/Prac/Characters/Mage Guild Examiner.md",
     "Writing/Prac/Characters/Whisper's Master.md",
     "Writing/Prac/Templates/Character Template.md",
-    "Writing/Prac/Characters/Whisper.md",
     "Writing/Prac/Organizations",
     "Writing/Prac/Templates/Organization Template.md",
     "Random Info/Thinking/Gods and Mortals.md",
@@ -332,12 +338,7 @@
     "conflict-files-obsidian-git.md",
     "Writing/Prac/Settings/City1.md",
     "Writing/Prac/Settings/Small Town.md",
-    "Writing/Prac/PlotEvents/Whisper's Masters Death.md",
-    "Writing/Prac/Items/Whisper's Staff.md",
-    "Writing/Prac/Magic System/Affinity.md",
-    "Writing/Prac/Items/Old book.md",
     "Untitled.base",
-    "Writing/Prac/Magic System/Tiers.md",
     "Writing/Relevant Info/Rotten Flesh.md",
     "Random Info/Thinking",
     "Why green.md",
