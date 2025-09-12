@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writing/Prac/Characters/Mage Guild Examiner.md",
+                "file": "Writing/Prac/PlotEvents/Whisper Arrives in City1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mage Guild Examiner"
+              "title": "Whisper Arrives in City1"
             }
           }
         ],
@@ -113,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Writing/Prac/Characters/Mage Guild Examiner.md",
+            "file": "Writing/Prac/PlotEvents/Whisper Arrives in City1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -171,12 +171,18 @@
   },
   "active": "a6a9b10428b7683e",
   "lastOpenFiles": [
+    "Writing/Prac/PlotEvents/Whisper's Masters Death.md",
+    "Whisp.md",
+    "Writing/Prac/PlotEvents/Whisper Arrives in City1.md",
+    "Writing/Relevant Info/Whisp.md",
+    "Writing/Prac/Templates/Event Template.md",
+    "Writing/Prac/Characters/Mage Guild Examiner.md",
+    "Untitled.base",
     "Writing/Prac/Organizations/Mage Guild1.md",
     "Writing/Prac/Organizations",
     "Writing/Prac/Templates/Organization Template.md",
     "Random Info/Thinking/Time.md",
     "Untitled.md",
-    "Writing/Prac/Characters/Mage Guild Examiner.md",
     "Writing/Prac/Settings/City1.md",
     "Writing/Relevant Info/Rotten Flesh.md",
     "Writing/Prac/Settings/Sub-Settings",
@@ -192,19 +198,14 @@
     "Random Info/Thinking",
     "Random Info",
     "Writing/Prac/Characters/Whispers Master.md",
-    "Writing/Prac/PlotEvents/Whisper's Masters Death.md",
     "Writing/Prac/Items/Whispers Staff.md",
     "Writing/Prac/Items/Old book.md",
     "Writing/Prac/Settings/Small Town.md",
     "Writing/Prac/Templates/Setting Template.md",
-    "Writing/Prac/Templates/Event Template.md",
-    "Writing/Prac/Templates/Item Template.md",
-    "Writing/Prac/Templates/Character Template.md",
     "Writing/Prac/Characters",
     "Writing/Prac/PlotEvents",
     "Writing/Prac/Items",
     "Writing/Prac/Settings",
-    "Writing/Prac/Templates",
-    "Writing/Prac/Magic System"
+    "Writing/Prac/Templates"
   ]
 }
