@@ -18,7 +18,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "Writing/Prac/PlotEvents/Whisper Arrives in City1.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": false
                   },
                   "icon": "lucide-file",
@@ -215,6 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Writing/Prac/PlotEvents/Whisper Arrives in City1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +225,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Whisper Arrives in City1"
             }
           },
           {
@@ -233,11 +234,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Writing/Prac/PlotEvents/Whisper Arrives in City1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Whisper Arrives in City1"
             }
           },
           {
@@ -280,8 +282,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -299,10 +300,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0c828eb87e5c87d1",
+  "active": "a50c9e9923d57259",
   "lastOpenFiles": [
-    "Writing/Prac/PlotEvents/Whisper Arrives in City1.md",
+    "Writing/Prac/Characters/Whisper.md",
     "Writing/Prac/Settings/The Dream.md",
+    "Writing/Prac/PlotEvents/Whisper Arrives in City1.md",
+    "Writing/Prac/Templates/Character Template.md",
     "Writing/Prac/PlotEvents/Whisper's Masters Death.md",
     "Writing/Prac/Organizations/Mage Guild1.md",
     "Writing/Prac/Settings/City1.md",
@@ -311,10 +314,8 @@
     "Writing/Prac/Magic System/Affinity.md",
     "Writing/Prac/Items/Whisper's Staff.md",
     "Writing/Prac/Items/Old book.md",
-    "Writing/Prac/Characters/Whisper.md",
     "Writing/Prac/Characters/Mage Guild Examiner.md",
     "Writing/Prac/Characters/Whisper's Master.md",
-    "Writing/Prac/Templates/Character Template.md",
     "Writing/Prac/Organizations",
     "Writing/Prac/Templates/Organization Template.md",
     "Random Info/Thinking/Gods and Mortals.md",
