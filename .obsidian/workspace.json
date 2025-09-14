@@ -123,6 +123,16 @@
                       "icon": "lucide-git-fork",
                       "title": "Graph view"
                     }
+                  },
+                  {
+                    "id": "24b7e4c0d8bb35b6",
+                    "type": "leaf",
+                    "state": {
+                      "type": "empty",
+                      "state": {},
+                      "icon": "lucide-file",
+                      "title": "New tab"
+                    }
                   }
                 ]
               }
@@ -282,7 +292,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
