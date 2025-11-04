@@ -4,7 +4,7 @@ tags:
 ---
 ### Base
 - Where all dreams are. A sort of mirror world.
-- [[Whisper]]
+- [[Writing/Prac/Characters/Whisper]]
 ### Event 
 - What changed
 - List of important Characters and their relation to the Setting
