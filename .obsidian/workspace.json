@@ -123,8 +123,21 @@
                       "icon": "lucide-git-fork",
                       "title": "Graph view"
                     }
+                  },
+                  {
+                    "id": "0aae61ec5b376f3f",
+                    "type": "leaf",
+                    "state": {
+                      "type": "release-notes",
+                      "state": {
+                        "currentVersion": "1.9.14"
+                      },
+                      "icon": "lucide-book-up",
+                      "title": "Release Notes 1.9.14"
+                    }
                   }
-                ]
+                ],
+                "currentTab": 1
               }
             ],
             "direction": "vertical"
@@ -301,7 +314,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "24b7e4c0d8bb35b6",
+  "active": "0aae61ec5b376f3f",
   "lastOpenFiles": [
     "Writing/Prac/PlotEvents/Whisper Gets Back to City1.md",
     "Writing/Prac/PlotEvents/Whisper Arrives in City1.md",
