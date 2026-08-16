@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Writing/Prac/PlotEvents/Whisper Gets Back to City1.md",
+                    "file": "Writing/Prac/Characters/Whisper.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Whisper Gets Back to City1"
+                  "title": "Whisper"
                 }
               }
             ]
@@ -123,21 +123,8 @@
                       "icon": "lucide-git-fork",
                       "title": "Graph view"
                     }
-                  },
-                  {
-                    "id": "0aae61ec5b376f3f",
-                    "type": "leaf",
-                    "state": {
-                      "type": "release-notes",
-                      "state": {
-                        "currentVersion": "1.9.14"
-                      },
-                      "icon": "lucide-book-up",
-                      "title": "Release Notes 1.9.14"
-                    }
                   }
-                ],
-                "currentTab": 1
+                ]
               }
             ],
             "direction": "vertical"
@@ -163,7 +150,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -314,7 +303,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0aae61ec5b376f3f",
+  "active": "4a41123ed80c2dc4",
   "lastOpenFiles": [
     "Writing/Prac/PlotEvents/Whisper Gets Back to City1.md",
     "Writing/Prac/PlotEvents/Whisper Arrives in City1.md",
