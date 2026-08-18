@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Writing/Prac/Characters/Whisper.md",
-                    "mode": "source",
-                    "source": false
+                    "file": "Writing/Prac/Characters/Mage Guild Examiner.md",
+                    "mode": "preview",
+                    "source": true
                   },
                   "icon": "lucide-file",
-                  "title": "Whisper"
+                  "title": "Mage Guild Examiner"
                 }
               }
             ]
@@ -305,6 +305,7 @@
   },
   "active": "4a41123ed80c2dc4",
   "lastOpenFiles": [
+    "Writing/Prac/Characters/Whisper.md",
     "Writing/Prac/PlotEvents/Whisper Gets Back to City1.md",
     "Writing/Prac/PlotEvents/Whisper Arrives in City1.md",
     "Writing/Prac/Characters/Suspicious Cloaked Stranger2.md",
@@ -321,7 +322,6 @@
     "Writing/Prac/Worldbuilding",
     "Writing/Prac/Organizations/Mage Guild1.md",
     "Writing/Prac/Templates/Character Template.md",
-    "Writing/Prac/Characters/Whisper.md",
     "Writing/Prac/Settings/The Dream.md",
     "Writing/Prac/Settings/City1.md",
     "Writing/Prac/Settings/Small Town.md",
